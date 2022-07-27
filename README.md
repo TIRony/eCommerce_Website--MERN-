@@ -37,6 +37,16 @@ There are 3-types of Users here:
     • Product details page.
     • Live advance searching. 
 
-<h3>Impact of this project:</h3>
+<h3>Used in project</h3>
+<b>To develop this project used the following: </b>
 
-Online service provider systems are new enablers in the online market. Customers have their own needs and employees can find all the ways, methods and resources to meet their needs. With the help of this project, people can easily hire workers and fulfill their needs in a simple way.
+    • VS Code. 
+    • NodeJS.
+    • Express.
+    • CSS.
+    • HTML5.
+    • MongoDB.
+    • ReactJS.
+    • JavaScript.
+
+The website is live here t check out : "https://hawk-tech.netlify.app/" .
