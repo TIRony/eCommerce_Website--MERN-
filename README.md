@@ -19,7 +19,7 @@ There are 3-types of Users here:
 
     • Full mobile responsive.
     • Single page application.
-    • Need Low time to load.
+    • Takes minimal loading time.
 
 <b>Employee</b>
 
