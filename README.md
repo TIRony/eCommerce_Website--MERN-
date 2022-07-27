@@ -49,4 +49,4 @@ There are 3-types of Users here:
     • ReactJS.
     • JavaScript.
 
-The website is live here t check out : "https://hawk-tech.netlify.app/" .
+The website is live here to check out: "https://hawk-tech.netlify.app/" .
