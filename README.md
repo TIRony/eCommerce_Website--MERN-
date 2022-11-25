@@ -3,7 +3,7 @@ Build an eCommerce website using MERN stack.
 
 <h3>Introduction:</h3>
 
-It is a single-page e-commerce web application. The goal of this project is to build an eCommerce website that takes minimal loading time.
+It's a Full-stack e-Commerce web application. The goal of this project is to build an eCommerce website that is fast, easy to update, and mobile responsive. And I'm trying to make it a single-page application for better use.
 
 The website is live here: "https://hawk-tech.netlify.app/"
 
